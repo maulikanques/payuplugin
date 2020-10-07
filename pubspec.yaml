@@ -1,7 +1,7 @@
 name: payu_flutter
-description: payu_money_plugin is a Flutter library for paying money using Payumoney. 
+description: payu_flutter is a Flutter library for paying money using Payumoney.
 version: 0.0.1
-homepage: https://github.com/maulikanques/payumoneyplugin/
+homepage: https://github.com/maulikanques/payuplugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
